@@ -1,0 +1,15 @@
+#For Spring Boot Version 3.2.1, below configuration is not required and
+  #it has moved to application.yml
+# Below Configuration is not in use and moved to application.yml
+#spring:
+ # application:
+  #  name: configserver
+  #cloud:
+   # config:
+    #  server:
+     #   git:
+      #    uri: https://github.com/aniket18/spring-cloud-config-server-repository
+       #   username: aniket18
+        #  password: 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
+         # clone-on-start: true
+   # fail-fast: true
